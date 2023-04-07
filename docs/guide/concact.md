@@ -10,3 +10,7 @@
 
 作者QQ:
 - `3205159921`
+
+作者年轻时候的照片
+
+<img src="..\.vuepress\public\author.jpg" alt="author" style="zoom:20%;" />

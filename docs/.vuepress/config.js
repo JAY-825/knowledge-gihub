@@ -1,7 +1,7 @@
 module.exports = {
     title: "淡水海边",
     description: "分享各类资源、教程等等",
-    base: '/knowledge-github/',
+    base: '/knowledge-view/',
     markdown: {
         lineNumbers: true,
     },
@@ -46,7 +46,12 @@ module.exports = {
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1, // 可选的, 默认值是 1
                 children: [
-                    ['es6/', "ES6介绍"]
+                    ['es6/', "ES6介绍"],
+                    ['es6/declaer', "var/let/const"],
+                    ['es6/array', "数组新增方法"],
+                    ['es6/object', "对象新增方法"],
+                    ['es6/function', "函数新增方法"],
+                    ['es6/setandmap', "set/map数据结构"],
                 ]
             },
             {
